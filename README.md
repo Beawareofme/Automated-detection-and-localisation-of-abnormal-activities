@@ -1,1 +1,1 @@
-# Automated-detection-and-localisation-of-abnormal-activities
+# Automated detection and localisation of abnormal activities in surveillance videos using exemplar selection
